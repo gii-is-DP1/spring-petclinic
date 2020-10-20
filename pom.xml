@@ -39,11 +39,11 @@
 			<email>donnie@tmht.com</email>
 			<url>http://www.tmht.com/donnie</url>
 			<roles>
-				<role>eunuco</role>
+				<role>lisensiado</role>
 			</roles>
 			<properties>
 				<picUrl>
-					https://pbs.twimg.com/media/Eh4n9GgUYAAan80?format=jpg&name=large
+					void
 				</picUrl>
 			</properties>
 		</developer>
